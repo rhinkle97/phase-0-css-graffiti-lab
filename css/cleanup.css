@@ -1,1 +1,7 @@
+#wall .tag-1 {
+    display: none;
+}
+.parent {
+    display: none;
+}
 /* write your override styles here */
